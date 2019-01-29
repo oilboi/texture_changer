@@ -1,9 +1,13 @@
-# THIS IS A MOD FOR MINETEST THAT UPGRADES ALL ITEMS TO THE MAX DEFINED AT THE TOP OF THE FILE (item_limit_stack_max) FOR MAX FUN!
+# This changes the texture of every node in the game!
 
-Find yourself overwhelmed with items? TOO MANY mods installed for you to hold all those cool nodes!? This is your solution! 
+on line 1 change the variable to 0 for dirt, 1 for crazy colors, and 2 for clouds
 
-The default redifined item stack is 999!
+![alt tag](https://raw.githubusercontent.com/oilboi/texture_changer/master/screenshot_20190129_133720.png "Everything is a cloud!")
 
-![alt tag](https://raw.githubusercontent.com/oilboi/zzzzzzzzzzzzzzzzzz_item_limit/master/screenshot_20190128_210910.png "So much diamond!")
+![alt tag](https://raw.githubusercontent.com/oilboi/texture_changer/master/screenshot_20190129_134439.png "Everything is a cloud!")
 
-If you encounter any issues (which should not ever happen because everything is an optional dependancy!) then delete the mod.conf file in the mod folder and the mod storage file for the mod in the world folder for hard reset. Easy!
+![alt tag](https://raw.githubusercontent.com/oilboi/texture_changer/master/screenshot_20190129_140239.png "Rainbow Colors!")
+
+![alt tag](https://raw.githubusercontent.com/oilboi/texture_changer/master/screenshot_20190129_140251.png "Rainbow Colors!")
+
+![alt tag](https://raw.githubusercontent.com/oilboi/texture_changer/master/screenshot_20190129_140451.png "The worlds looking a bit dirty!")
